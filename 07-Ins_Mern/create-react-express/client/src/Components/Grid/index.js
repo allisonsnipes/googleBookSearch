@@ -1,4 +1,4 @@
-// import react components or needed files for displaying the book results
+// import react components or needed files for displaying the layout
 import React from 'react';
 
 // need to first establish the container component
